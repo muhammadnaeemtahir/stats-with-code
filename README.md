@@ -1,1 +1,1 @@
-# probability-and-statstics
+# Statistics with Code
